@@ -5,7 +5,7 @@ Contributors:      dipendrapancholi
 Plugin Name:       Contact Form 7 Widget
 Plugin URI:        https://github.com/dipendrapancholi/contact-form-7-widget
 Tags:              contact form 7, contact form 7 widget
-Author URI:        https://worldwebtechnology.com
+Author URI:        https://profiles.wordpress.org/dipendrapancholi/
 Requires at least: 5.0
 Requires PHP:      5.6
 Tested up to:      5.7.2
